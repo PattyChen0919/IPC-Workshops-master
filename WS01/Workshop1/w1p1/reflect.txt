@@ -1,0 +1,22 @@
+///////////////////////////////////////////////////////////////////////////
+
+                              Reflection
+                             Workshop - #1
+Full Name : Pei-Ti, Chen
+Student ID# :133237222
+Email : pchen81@myseneca.ca
+Section :NAA
+
+Authenticity Declaration:
+
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+///////////////////////////////////////////////////////////////////////////
+
+
+1. No, I do not have any programming experience. For the first week, the C language is not that difficult, but I am sure after a few weeks it will not be easy to learn. So preview and review are both important and require lots of practise.
+
+2. First, you need to read the text file carefully to understand what the file wants to present. It is necessary to ensure the number of spaces in front of the sentences and the number of blank lines between paragraphs. Sometimes it is not easy because one difference will be a mistake.
+
+3. I know I do not have any background in programming, but what I want to learn from IPC144 is that I can do some small side projects by myself. And overcome the difficulties and obstacles.
