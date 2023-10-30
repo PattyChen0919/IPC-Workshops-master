@@ -1,0 +1,31 @@
+///////////////////////////////////////////////////////////////////////////
+
+                              Reflection
+                             Workshop - #2
+Full Name : Pei-Ti, Chen
+Student ID# :133237222
+Email : pchen81@myseneca.ca
+Section :NAA
+
+Authenticity Declaration:
+
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+///////////////////////////////////////////////////////////////////////////
+
+1. Because binary doesn't save number 6, so this it will show the nearest number.   
+Float storage tells ues how limited the storage space is, and the difficulty with binary decimals, because binary decimals are hard to store, so they're not accurate, and the significant number is the range of significant numbers that can be stored correctly, and of course there are a few significant numbers that are wrong, So the number of exact digits exists to indicate that the values within that range are absolutely accurate. If precise numbers are needed, floating-point numbers will yield different results after a lot of computation or large computation.
+
+2. 1.Because money is int. So it's the way to implicitly promote money to float/double.
+   2.Because money is int. So for money, it's the way to cast 100 explicitly and coercion it to double.
+   3.Because money is int. So for money, it's the way to cast money explicitly and coercion it  to double.
+
+3. a)sample 3, because no cast for the result, so it shows 0.00(use double so have two 0 un the end). 
+     sample 4, only give %d to see the result but without any cast or promote so it's only shows the two number for the answer.
+   b)1. $0.00
+     2. $72
+     3. $0.00
+     4. $72
+   c)For sample 1, becasue it didn't promote money from int to float.
+     For sample 3, because print %.2lf is double but result is int.
