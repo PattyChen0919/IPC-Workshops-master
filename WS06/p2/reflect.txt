@@ -1,0 +1,27 @@
+///////////////////////////////////////////////////////////////////////////
+                               Reflection
+                             Workshop - #6
+Full Name  : Pei-Ti, Chen
+Student ID#: 133237222
+Email      : pchen81@myseneca.ca
+Section    : NAA
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+///////////////////////////////////////////////////////////////////////////
+
+1. Why are there three types of iteration constructs if we can make any one of them behave the same way?   Referto your code in this workshop to help backup your answer (do NOT include the code in your answer).   Typically, when working with arrays, there is one iteration construct we favour – what is it and explain why it is more preferred over the other options.
+
+Ans: Yes, we can make three types of iteration constructs in the same way. FOR, need to know initialization, condition, and change. DO-WHILE, need to do the it at least once and test is true. DO, execute the sequence as true. I use FOR when working with arrays because I know the end of the number and I need to pick which number of the array I want to use. And we have terminal value, as macros do.
+
+
+2.Describe what you did to both test and debug your program.  How did you go about finding where the problems were located (explain how you did this for both syntactic and semantic problems)?
+
+Ans: When I see any errors, I will check if they are syntactic or semantic problems. And find which line is wrong and fix it. For syntactic problems, maybe mismatched parentheses or semicolons. For semantic problems, maybe logic errors or type mismatches. Then find the errors and fix them.
+
+
+3.  When attempting to submit your work, you receive the following error feedback from the submitter:
+
+Ans: First, check the output to find the problem, then find the line in Visual Studio. Normally, there are two problems with the errors. One is wrong input, the other is wrong coding. In this case, it's more like the wrong input. So I need to run it again and input the correct number.

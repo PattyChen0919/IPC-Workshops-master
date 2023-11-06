@@ -1,0 +1,21 @@
+12. start main function
+14. int student id
+15.int byear
+16.float finalgrade
+18. int i
+19. float sumgrade = 0.0f
+21. if 323 % 2 == 1 (true)
+23. for i = 0; i < 3(true)
+25. if !(2004 % 2) == 1(true)
+27. sumgrade = 47.0 << 0.0 + 49.5 -2.5
+23. for i ==1; i < 3(true)
+25. if !(1983 % 2) == 0(false)
+
+31. sumgrade = 68.5 <<47.0 + 20.5 + 1.0
+23. for i = 2; i < 3(true)
+25. if !(1991 % 2) == 0(false)
+
+31. sumgrade = 150 << 68.5 + 80.5 + 1.0
+23. for i ==3; i < 3(false)
+50. printf avegrade= 50 << sumgrade / 3
+52. return value to function 

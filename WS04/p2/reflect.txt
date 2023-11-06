@@ -1,0 +1,19 @@
+///////////////////////////////////////////////////////////////////////////
+                               Reflection
+                             Workshop - #4
+Full Name  : Pei-Ti, Chen
+Student ID#: 13323722
+Email      : pchen81@myseneca.ca
+Section    : NAA
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+///////////////////////////////////////////////////////////////////////////
+
+1.   Because the system ask about "Do another shopping?" this will be the outermost loop for the whole system. In this case, I use a do-while loop, which will execute the code inside the loop once and then determine the loop condition. Inside the loop, in the first part, I need to do another do-while loop to check the product amount. In the second part, I assume the products are not equal to 0 to start the while loop to check and use if-else to know how many products and how many products to pick.
+
+2. If you don't use nested logic, the code will be very massive and lengthy, not clearer, and not easier to read. And provides a hierarchical structure that divides a programme's logical judgements into multiple levels and makes the programme's logic more organised. Because without nested logic, if the user types wrong, they need to repeat the sentence so many times. Also, we don't know how many times the user will type. So using nested logic will help code be more efficient and readable.
+ 
+3. Because you use if-else-if, you don't need to run the whole system; you only need to know if the "if-else-if" matches the requirement or not. If it matches, then you don't need to do the rest of it. But if you use "if" you need to check everything before leaving the system.
